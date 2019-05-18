@@ -7,4 +7,8 @@ Use on your own system, I am not responsible for any illegal use. Modify on your
 
 </br>
 
-![pic_dos](https://user-images.githubusercontent.com/41824020/57974014-412a6780-79cf-11e9-819a-b86234bc6674.png)
+![pic_dos](https://user-images.githubusercontent.com/41824020/57974160-8780c600-79d1-11e9-9c1b-c6056580e622.png)
+
+</br>
+
+![pic_2_2](https://user-images.githubusercontent.com/41824020/57974161-89e32000-79d1-11e9-9093-ceeb0514f437.png)
