@@ -1,3 +1,7 @@
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/DoS-Attack.svg)](http://hits.dwyl.io/D-E-F-E-A-T/DoS-Attack)
+
+</br>
+
 # DoS-Attack
 Use on your own system, I am not responsible for any illegal use. Modify on your own risk.
 
